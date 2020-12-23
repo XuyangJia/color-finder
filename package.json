@@ -1,0 +1,14 @@
+{
+  "name": "color-finder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:XuyangJia/colorFinder.git",
+  "author": "“JiaXuyang” <jiaxuyang@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
