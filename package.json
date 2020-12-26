@@ -1,8 +1,10 @@
 {
   "name": "color-finder",
   "version": "1.0.0",
-  "main": "index.js",
   "type": "module",
+  "scripts": {
+    "dev": "node ./src/index"
+  },
   "repository": "git@github.com:XuyangJia/colorFinder.git",
   "author": "“JiaXuyang” <jiaxuyang@outlook.com>",
   "license": "MIT",
